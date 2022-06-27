@@ -6,7 +6,7 @@ from class_activities.NLP.src.nlp_utils import get_sample_Santo_Graal
 
 scene_one = get_sample_Santo_Graal()
 sentences = sent_tokenize(scene_one)
-print(scene_one)
+
 # Search for the first occurrence of "coconuts" in scene_one: match
 match = re.search("coconuts", scene_one)
 

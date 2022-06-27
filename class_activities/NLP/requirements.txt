@@ -1,0 +1,5 @@
+# NLP
+nltk==3.7
+
+# General use
+matplotlib==3.5.1
