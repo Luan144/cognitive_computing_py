@@ -2,7 +2,7 @@
 from nltk import word_tokenize
 from collections import Counter
 
-from NLP.src.nlp_utils import get_sample_article
+from class_activities.NLP.src.nlp_utils import get_sample_article
 
 article = get_sample_article()
 
